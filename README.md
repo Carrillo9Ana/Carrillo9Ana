@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+ <img src="./aboutme.png" align="center" alt="About me" />
+</p>
+
 <!--
 **acarrillo3/acarrillo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -21,7 +25,7 @@ Here are some ideas to get you started:
   <a href="linkedin.com/in/acarrillo9724/" target="_blank">LinkedIn</a>
 </p>
 
-<p align="center">I'm a Full Stack Web Developer and recent graduate of <a href="https://lambdaschool.com/" target="_blank">Lambda School</a>, currently looking to join a company who needs a passionate software developer.</p>
+<p align="center">I'm a Full Stack Web Developer and recent graduate of <a href="https://lambdaschool.com/" target="_blank">Lambda School</a>, currently looking to join a company who needs a passionate Software Developer.</p>
 
 ---
 
