@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-<p align="center">
- <img src="./aboutme.png" align="center" alt="About me" />
-</p>
+[![Header](https://raw.githubusercontent.com/acarrillo3/acarrillo3/master/aboutme.png "Header")](https://anacarrillo.dev/)
 
 <!--
 **acarrillo3/acarrillo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
