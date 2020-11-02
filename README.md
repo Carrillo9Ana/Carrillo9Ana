@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 ### _I'm currently seeking my first software developer job, but in the meantime..._
 
-- 🔭 I’m currently working on an app that helps athletes better record their workout routines before they hit the GYM
-- 🌱 I’m currently learning ... C#, JavaScript, DevOps
+- 🔭 I’m currently working on angular and react apps 
+- 🌱 I’m currently learning ... more JavaScript
 - 🤝 I’m looking to collaborate on ... anything I get the chance to (including open source projects)
 - 🤔 I’m looking for help with ... getting my first full time web developer job
 - 💬 Ask me about ... my time at Lambda School 
