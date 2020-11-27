@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... getting my first full time web developer job
 - 💬 Ask me about ... my time at Lambda School 
 - 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/acarrillo9724/)
-- ⚡ Fun fact ... I love hiking and camping but hate bugs.
+- ⚡ Fun fact ... I love hiking and camping but dislike bugs.
 
 ## 📚 Tech Stack
 
