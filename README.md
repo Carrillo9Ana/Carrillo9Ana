@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="http://anacarrillo.dev/" target="_blank">Portfolio</a>
   |
-  <a href="linkedin.com/in/acarrillo9724/" target="_blank">LinkedIn</a>
+  <a href="linkedin.com/in/carrillo9ana/" target="_blank">LinkedIn</a>
+  |
+  <a href="https://twitter.com/Carrillo9Ana/" target="_blank">Twitter</a>
 </p>
 
 <p align="center">I'm a Full Stack Web Developer and recent graduate of <a href="https://lambdaschool.com/" target="_blank">Lambda School</a>, currently looking to join a company who needs a passionate Software Developer.</p>
@@ -33,7 +35,7 @@ Here are some ideas to get you started:
 - 🤝 I’m looking to collaborate on ... anything I get the chance to (including open source projects)
 - 🤔 I’m looking for help with ... getting my first full time web developer job
 - 💬 Ask me about ... my time at Lambda School 
-- 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/acarrillo9724/)
+- 📫 How to reach me ... [Email](acarrillo1824@gmail.com)
 - ⚡ Fun fact ... I love hiking and camping but dislike bugs.
 
 ## 📚 Tech Stack
@@ -57,7 +59,7 @@ Here are some ideas to get you started:
 
 <!-- Add shields to your GitHub [here](https://shields.io/) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acarrillo3&theme=vision-friendly-dark&hide=tsql,html)](https://github.com/acarrillo3/github-readme-stats)
-[![Ana's github stats](https://github-readme-stats.vercel.app/api?username=acarrillo3&show_icons=true&theme=vision-friendly-dark)](https://github.com/acarrillo3/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carrillo9Ana&theme=vision-friendly-dark&hide=tsql,html)](https://github.com/Carrillo9Ana/github-readme-stats)
+[![Ana's github stats](https://github-readme-stats.vercel.app/api?username=Carrillo9Ana&show_icons=true&theme=vision-friendly-dark)](https://github.com/Carrillo9Ana/github-readme-stats)
 
 <!--Add stats to your GitHub [here](https://github.com/anuraghazra/github-readme-stats) -->
