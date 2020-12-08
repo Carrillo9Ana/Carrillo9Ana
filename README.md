@@ -2,7 +2,7 @@
 [![Header](https://raw.githubusercontent.com/acarrillo3/acarrillo3/master/aboutme.png "Header")](https://anacarrillo.dev/)
 
 <!--
-**acarrillo3/acarrillo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**carrillo9ana/carrillo9ana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> I'm Ana Carrillo </h1>
+<h1 align="center"> Welcome to Ana's GitHub section!</h1>
 <p align="center">
   <a href="http://anacarrillo.dev/" target="_blank">Portfolio</a>
   |
@@ -26,17 +26,22 @@ Here are some ideas to get you started:
 
 <p align="center">I'm a Full Stack Web Developer and recent graduate of <a href="https://lambdaschool.com/" target="_blank">Lambda School</a>, currently looking to join a company who needs a passionate Software Developer.</p>
 
+<p align="center">Ana is ignited for learning and teaching modern technologies. She considers herself a 'lifelong learner' eager to both build on her academic foundations in client and server development by staying in tune with the latest libraries and frameworks through continued course work and professional growth.</p>
+<p align="center">Her hunger for knowledge and determination to turn information into action has contributed to her most recent success at Lambda School. There she led award-winning projects for non-profit organizations such as GOODBRIGE, Citric, Life-Logger, and Sauti East Africa.</p>
+<p align="center">Meanwhile, she vastly improved the productivity of her department by implementing agile strategic project management methods and ensuring a work-life balance for her team. Ana believes mindfulness in the workplace is key to success, a tenant she lives out through her interest in weight lifting, hiking, meditation, and painting.</p>
+<p align="center"> Ana is currently working as a freelance web developer and is always interested in a challenge. Reach out to acarrillo1824@gmail.com to connect!</p>
+
 ---
 
 ### _I'm currently seeking my first software developer job, but in the meantime..._
 
-- 🔭 I’m currently working on angular and react apps 
+- 🔭 I’m currently working on creating single page applications.
 - 🌱 I’m currently learning ... more JavaScript
-- 🤝 I’m looking to collaborate on ... anything I get the chance to (including open source projects)
-- 🤔 I’m looking for help with ... getting my first full time web developer job
-- 💬 Ask me about ... my time at Lambda School 
+- 🤝 I’m looking to collaborate on ... anything I get the chance to from blogging to coding.
+- 🤔 I’m looking for help with ... getting my first full time web developer job. Offers or even advice is greatly appriciated. 
+- 💬 Ask me about ... my time at Lambda School or how I got here. 
 - 📫 How to reach me ... [Email](acarrillo1824@gmail.com)
-- ⚡ Fun fact ... I love hiking and camping but dislike bugs.
+- ⚡ Fun fact ... I love outdoors such as hiking but dislike bugs.
 
 ## 📚 Tech Stack
 
