@@ -24,8 +24,6 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/Carrillo9Ana/" target="_blank">Twitter</a>
 </p>
 
-<p align="center">I'm a Full Stack Web Developer and recent graduate of <a href="https://lambdaschool.com/" target="_blank">Lambda School</a>, currently looking to join a company who needs a passionate Software Developer.</p>
-
 <p align="center">Ana is ignited for learning and teaching modern technologies. She considers herself a 'lifelong learner' eager to both build on her academic foundations in client and server development by staying in tune with the latest libraries and frameworks through continued course work and professional growth.</p>
 <p align="center">Her hunger for knowledge and determination to turn information into action has contributed to her most recent success at Lambda School. There she led award-winning projects for non-profit organizations such as GOODBRIGE, Citric, Life-Logger, and Sauti East Africa.</p>
 <p align="center">Meanwhile, she vastly improved the productivity of her department by implementing agile strategic project management methods and ensuring a work-life balance for her team. Ana believes mindfulness in the workplace is key to success, a tenant she lives out through her interest in weight lifting, hiking, meditation, and painting.</p>
@@ -39,7 +37,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... more JavaScript
 - 🤝 I’m looking to collaborate on ... anything I get the chance to from blogging to coding.
 - 🤔 I’m looking for help with ... getting my first full time web developer job. Offers or even advice is greatly appriciated. 
-- 💬 Ask me about ... my time at Lambda School or how I got here. 
+- 💬 Ask me about ... my time at <a href="https://lambdaschool.com/" target="_blank">Lambda School</a> or how I got here. 
 - 📫 How to reach me ... [Email](acarrillo1824@gmail.com)
 - ⚡ Fun fact ... I love outdoors such as hiking but dislike bugs.
 
