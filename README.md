@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="http://anacarrillo.dev/" target="_blank">Portfolio</a>
   |
-  <a href="linkedin.com/in/carrillo9ana/" target="_blank">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/carrillo9ana/" target="_blank">LinkedIn</a>
   |
   <a href="https://twitter.com/Carrillo9Ana/" target="_blank">Twitter</a>
 </p>
