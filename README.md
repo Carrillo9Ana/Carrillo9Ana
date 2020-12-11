@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 - 🤝 I’m looking to collaborate on ... anything I get the chance to from blogging to coding.
 - 🤔 I’m looking for help with ... getting my first full time web developer job. Offers or even advice is greatly appriciated. 
 - 💬 Ask me about ... my time at <a href="https://lambdaschool.com/" target="_blank">Lambda School</a> or how I got here. 
-- 📫 How to reach me ... [Email](acarrillo1824@gmail.com)
-- ⚡ Fun fact ... I love outdoors such as hiking but dislike bugs.
+- 📫 How to reach me ... [Email](acarrillo1824@gmail.com) or Google me up as Ana Carrillo @Carrillo9Ana
+- ⚡ Fun fact ... I love outdoors such as hiking but dislike the bugs.
 
 ## 📚 Tech Stack
 
