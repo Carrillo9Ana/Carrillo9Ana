@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/acarrillo3/acarrillo3/master/aboutme.png "Header")](https://anacarrillo.dev/)
+[![Header](https://raw.githubusercontent.com/Carrillo9Ana/Carrillo9Ana/master/aboutme.png "Header")](https://anacarrillo.dev/)
 
 <!--
 **carrillo9ana/carrillo9ana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +22,8 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/carrillo9ana/" target="_blank">LinkedIn</a>
   |
   <a href="https://twitter.com/Carrillo9Ana/" target="_blank">Twitter</a>
+  |
+  <a href="https://www.google.com/search?q=Carrillo9Ana&oq=Carrillo&aqs=chrome.0.69i59j69i57j69i59j69i61l2j69i60j69i65.1920j0j7&sourceid=chrome&ie=UTF-8" target="_blank"> See my latest post from Google as Carrillo9Ana</a>
 </p>
 
 <p align="center">Ana is ignited for learning and teaching modern technologies. She considers herself a 'lifelong learner' eager to both build on her academic foundations in client and server development by staying in tune with the latest libraries and frameworks through continued course work and professional growth.</p>
@@ -31,14 +33,14 @@ Here are some ideas to get you started:
 
 ---
 
-### _I'm currently seeking my first software developer job, but in the meantime..._
+### _I'm currently seeking for software developer job, but in the meantime..._
 
 - 🔭 I’m currently working on creating single page applications.
 - 🌱 I’m currently learning ... more JavaScript
 - 🤝 I’m looking to collaborate on ... anything I get the chance to from blogging to coding.
-- 🤔 I’m looking for help with ... getting my first full time web developer job. Offers or even advice is greatly appriciated. 
+- 🤔 I’m looking for help with ...  becoming a better developer and how to get money to work for me. So all advice is greatly appriciated. 
 - 💬 Ask me about ... my time at <a href="https://lambdaschool.com/" target="_blank">Lambda School</a> or how I got here. 
-- 📫 How to reach me ... [Email](acarrillo1824@gmail.com) or Google me up as Ana Carrillo @Carrillo9Ana
+- 📫 How to reach me ... [Email](acarrillo1824@gmail.com)
 - ⚡ Fun fact ... I love outdoors such as hiking but dislike the bugs.
 
 ## 📚 Tech Stack
