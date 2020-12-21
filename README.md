@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   |
   <a href="https://twitter.com/Carrillo9Ana/" target="_blank">Twitter</a>
   |
-  <a href="https://www.google.com/search?q=Carrillo9Ana&oq=Carrillo&aqs=chrome.0.69i59j69i57j69i59j69i61l2j69i60j69i65.1920j0j7&sourceid=chrome&ie=UTF-8" target="_blank"> See my latest post from Google as Carrillo9Ana</a>
+  <a href="https://www.google.com/search?q=Carrillo9Ana&oq=Carrillo&aqs=chrome.0.69i59j69i57j69i59j69i61l2j69i60j69i65.1920j0j7&sourceid=chrome&ie=UTF-8" target="_blank"> See Ana's latest post from Google as Carrillo9Ana</a>
 </p>
 
 <p align="center">Ana is ignited for learning and teaching modern technologies. She considers herself a 'lifelong learner' eager to both build on her academic foundations in client and server development by staying in tune with the latest libraries and frameworks through continued course work and professional growth.</p>
@@ -33,15 +33,14 @@ Here are some ideas to get you started:
 
 ---
 
-### _I'm currently seeking for software developer job, but in the meantime..._
+### _Ana is currently seeking for a Software Engineer opportunity, but in the meantime..._
 
-- 🔭 I’m currently working on creating single page applications.
-- 🌱 I’m currently learning ... more JavaScript frameworks and libraries while also expanding my financial literacy knowledge. 
-- 🤝 I’m looking to collaborate on ... anything I get the chance to from blogging to coding to trading.
-- 🤔 I’m looking for help with ...  becoming a better developer and how to get money to work for me. So all advice is greatly appriciated. 
-- 💬 Ask me about ... my time at <a href="https://lambdaschool.com/" target="_blank">Lambda School</a> or how I got here. 
-- 📫 How to reach me ... [Email](acarrillo1824@gmail.com)
-- ⚡ Fun facts ... I love nature I think I'm attracted to bugs (Same with coding T.T). I'm a visual learner. I have a passion for learning (web development and how money works are two of my favorite topics) 
+- 🔭 She is working for Fedex as a package handler during the sunrise and during the sunset she works in open source community projects. 
+- 🌱 She has a passion for learning (web development and how money works are two of her favorite topics).
+- 🤝 She loves nature ( from swimming in rivers to hiking).
+- 💬 Ask her about her time at <a href="https://lambdaschool.com/" target="_blank">Lambda School</a> or the secrets of being a happy human being.
+- 📫 How to reach her [Email](acarrillo1824@gmail.com).
+- ⚡ Fun facts Ana was an immigrant child during 2007.
 
 ## 📚 Tech Stack
 
