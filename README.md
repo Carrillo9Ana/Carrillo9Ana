@@ -36,12 +36,12 @@ Here are some ideas to get you started:
 ### _I'm currently seeking for software developer job, but in the meantime..._
 
 - 🔭 I’m currently working on creating single page applications.
-- 🌱 I’m currently learning ... more JavaScript
-- 🤝 I’m looking to collaborate on ... anything I get the chance to from blogging to coding.
+- 🌱 I’m currently learning ... more JavaScript frameworks and libraries while also expanding my financial literacy knowledge. 
+- 🤝 I’m looking to collaborate on ... anything I get the chance to from blogging to coding to trading.
 - 🤔 I’m looking for help with ...  becoming a better developer and how to get money to work for me. So all advice is greatly appriciated. 
 - 💬 Ask me about ... my time at <a href="https://lambdaschool.com/" target="_blank">Lambda School</a> or how I got here. 
 - 📫 How to reach me ... [Email](acarrillo1824@gmail.com)
-- ⚡ Fun fact ... I love outdoors such as hiking but dislike the bugs.
+- ⚡ Fun facts ... I love nature I think I'm attracted to bugs (Same with coding T.T). I'm a visual learner. I have a passion for learning (web development and how money works are two of my favorite topics) 
 
 ## 📚 Tech Stack
 
