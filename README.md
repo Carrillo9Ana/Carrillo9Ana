@@ -29,14 +29,13 @@ Here are some ideas to get you started:
 <p align="center">Ana is ignited for learning and teaching modern technologies. She considers herself a 'lifelong learner' eager to both build on her academic foundations in client and server development by staying in tune with the latest libraries and frameworks through continued course work and professional growth.</p>
 <p align="center">Her hunger for knowledge and determination to turn information into action has contributed to her most recent success at Lambda School. There she led award-winning projects for non-profit organizations such as GOODBRIGE, Citric, Life-Logger, and Sauti East Africa.</p>
 <p align="center">Meanwhile, she vastly improved the productivity of her department by implementing agile strategic project management methods and ensuring a work-life balance for her team. Ana believes mindfulness in the workplace is key to success, a tenant she lives out through her interest in weight lifting, hiking, meditation, and painting.</p>
-<p align="center"> Ana is currently working as a freelance web developer and is always interested in a challenge. Reach out to acarrillo1824@gmail.com to connect!</p>
-
+<p align="center"> Ana is currently working as a freelance software engineer and is always interested in a challenge. Reach out to her at acarrillo1824@gmail.com to connect!</p>
 ---
 
 ### _Ana is currently seeking for a Software Engineer opportunity, but in the meantime..._
 
-- 🔭 She is working for Fedex as a package handler during the sunrise and during the sunset she works in open source community projects. 
-- 🌱 She has a passion for learning (web development and how money works are two of her favorite topics).
+- 🔭 She is working on freelance projects and her individual porfolio.
+- 🌱 She has a passion for learning more about software development, financial literacy, digital marketing, and korean.
 - 🤝 She loves nature ( from swimming in rivers to hiking).
 - 💬 Ask her about her time at <a href="https://lambdaschool.com/" target="_blank">Lambda School</a> or the secrets of being a happy human being.
 - 📫 How to reach her [Email](acarrillo1824@gmail.com).
